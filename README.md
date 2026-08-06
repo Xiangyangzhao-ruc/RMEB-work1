@@ -41,5 +41,3 @@ MIT License
 
 ## Contributors
 @Xiangyangzhao-ruc
-PR测试
-PR测试2

@@ -41,4 +41,3 @@ MIT License
 
 ## Contributors
 @Xiangyangzhao-ruc
-xiangyangzhao@ruc.edu.cn
